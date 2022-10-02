@@ -9,9 +9,8 @@ During this project, I was able to watch several videos and check out multiple r
 
 The redstore database is a google hosted database that is hosted on the cloud. This example was created to store data from a recent tournament that I had with a group of friends playing a minature game called Star Wars legion. This is the beggining stages of the database. The software has code for inserting data, reading data, using queries and setting up and using the database useing python.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/j0H9QvAlx_c
 
 # Cloud Database
 
